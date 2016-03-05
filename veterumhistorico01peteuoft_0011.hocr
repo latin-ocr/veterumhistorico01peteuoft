@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumhistorico01peteuoft_0011.png"; bbox 0 0 1884 3213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 366 1216 1379 1451">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 366 1216 1379 1451">
+     <span class='ocr_line' id='line_1_1' title="bbox 433 1216 1306 1282; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 433 1219 823 1282; x_wconf 73' lang='lat' dir='ltr'>OAROLO</span> <span class='ocrx_word' id='word_1_2' title='bbox 861 1250 871 1261; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 908 1216 1306 1278; x_wconf 71' lang='lat' dir='ltr'>PETERO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 366 1385 1379 1451; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 366 1388 694 1451; x_wconf 83' lang='lat' dir='ltr'>PATRI</span> <span class='ocrx_word' id='word_1_5' title='bbox 731 1420 742 1430; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 779 1385 1379 1449; x_wconf 67' lang='lat' dir='ltr'>CARISSIMO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

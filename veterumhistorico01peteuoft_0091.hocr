@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumhistorico01peteuoft_0091.png"; bbox 0 0 1884 3213; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 80 1221 1596 1468">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 80 1221 1596 1468">
+     <span class='ocr_line' id='line_1_1' title="bbox 80 1221 1596 1299; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 80 1223 223 1298; x_wconf 72' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 281 1222 530 1298; x_wconf 60' lang='lat' dir='ltr'>som</span> <span class='ocrx_word' id='word_1_3' title='bbox 553 1222 616 1298; x_wconf 81' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_4' title='bbox 631 1222 851 1299; x_wconf 67' lang='grc' dir='ltr'>ΤΘΗ</span> <span class='ocrx_word' id='word_1_5' title='bbox 863 1221 936 1298; x_wconf 78' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_6' title='bbox 950 1222 1031 1298; x_wconf 82' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_7' title='bbox 1081 1221 1159 1298; x_wconf 78' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_8' title='bbox 1177 1222 1287 1298; x_wconf 73' lang='grc' dir='ltr'>ΙΨ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1311 1222 1404 1298; x_wconf 62' lang='lat' dir='ltr'>[S</span> <span class='ocrx_word' id='word_1_10' title='bbox 1466 1224 1596 1299; x_wconf 71' lang='grc' dir='ltr'>ΕΤ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 573 1390 1111 1468; baseline -0.002 0"><span class='ocrx_word' id='word_1_11' title='bbox 573 1392 783 1468; x_wconf 52' lang='lat' dir='ltr'>&amp;CR</span> <span class='ocrx_word' id='word_1_12' title='bbox 805 1390 1111 1468; x_wconf 69' lang='lat' dir='ltr'>[PTIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
